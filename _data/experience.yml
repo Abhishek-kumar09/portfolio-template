@@ -1,4 +1,10 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: Open Source Contributor
+  company: Checkstyle
+  dates: summer 2020
+  logo: cs.png
+
+- role: Intern
+  company: Code For Cause
+  dates: Autumn 2020
+  logo: cfc.jpeg
+  
